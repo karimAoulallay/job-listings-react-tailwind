@@ -14,8 +14,8 @@ In this [Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repo URL: [https://github.com/karimAoulallay/job-listings-react-tailwind](https://github.com/karimAoulallay/job-listings-react-tailwind)
+- Live Site URL: [https://job-listings-react-tailwind.netlify.app](https://job-listings-react-tailwind.netlify.app)
 
 ### Built with
 

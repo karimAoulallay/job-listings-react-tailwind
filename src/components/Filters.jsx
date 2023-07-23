@@ -25,7 +25,7 @@ const Filters = (props) => {
                     className="bg-desaturated-dark-cyan p-2 hover:bg-very-dark-grayish-cyan transition-all"
                   >
                     <img
-                      src="./images/icon-remove.svg"
+                      src="./assets/images/icon-remove.svg"
                       alt="remove icon"
                       className=" pointer-events-none"
                     />

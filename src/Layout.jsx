@@ -5,11 +5,11 @@ const Layout = () => {
     <div className="bg-light-grayish-cyan min-h-screen">
       <picture>
         <source
-          srcSet="../images/bg-header-desktop.svg"
+          srcSet="./assets/images/bg-header-desktop.svg"
           media="(min-width: 768px)"
         />
         <img
-          src="../images/bg-header-mobile.svg"
+          src="./assets/images/bg-header-mobile.svg"
           alt="header background"
           className="bg-desaturated-dark-cyan w-full"
         />

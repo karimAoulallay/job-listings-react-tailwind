@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useLocation, useParams } from "react-router-dom";
-import { fetchData } from "../../fetch";
+import { fetchData } from "../../public/fetch";
 
 const Show = () => {
   const [listing, setListing] = useState(null);

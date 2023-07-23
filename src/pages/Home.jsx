@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import Filters from "../components/Filters";
 import ListingsItem from "../components/ListingsItem";
-import { fetchData } from "../../fetch";
 import { useSearchParams } from "react-router-dom";
+import { fetchData } from "../../public/fetch";
 
 const Home = () => {
   const [listings, setListings] = useState([]);
